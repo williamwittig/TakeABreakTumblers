@@ -1,0 +1,15 @@
+{
+  "name" : "GreenRiverDev/355/TakeABreakTumblers",
+  "authors" : [
+    {
+      "name": "William Wittig",
+      "email": "wittig.william@student.greenriver.edu"
+    }
+  ],
+  "require" : {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["classes/", "model/", "controllers/"]
+  }
+}
